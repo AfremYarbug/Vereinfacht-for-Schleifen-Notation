@@ -14,7 +14,7 @@ public class Main {
       // Neue, vereinfachte Schleifen-Notation
       int summe = 0;
       for (int x : werte) {
-        summe = summe + werte[i];
+        summe = summe + x;
       }
       
       /*ist sorgfältig mit Indexgrenzen und Komponentenzugriffen, da man Laufzeitfehler bei der Überschreitung der Indexbereiche macht...*/
