@@ -22,3 +22,14 @@ public class Main {
     }
     
 }
+/*Beispiel
+int[] array = {6, 4};
+        int[] array1 = {7, 8};
+        for (int x : array) {
+            for (int y : array1) {
+                
+                System.out.print(x + " ");
+                System.out.print(y + " ");
+            }
+
+        }*/
